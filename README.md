@@ -1,1 +1,1 @@
-https://github-readme-stats.vercel.app/api?username=siva-geddada&show_icons=true&theme=cobalt
+https://github-readme-stats.vercel.app/api?username=siva-geddada&show_icons=true&theme=radical
