@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siva-geddada&show_icons=true)
+https://github-readme-stats.vercel.app/api?username=siva-geddada&show_icons=true&theme=cobalt
